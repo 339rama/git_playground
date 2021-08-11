@@ -1,3 +1,3 @@
 function someFunction() {
-  // do something
+  // function updated
 }
